@@ -1,0 +1,113 @@
+a, a:hover{
+    text-decoration: none;   
+}
+
+.nav-hold,
+.container{
+    width: 95%;   
+    margin: 0 auto;
+
+}
+
+.nav-bar{
+    width:100%;
+     background: #222;
+}
+
+.nav-hold{
+    overflow: hidden;
+}
+
+.logo{
+    padding: 20px 10px;
+    display: block;
+    float: left;
+    color: #f9f9f9;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.nav-list{
+    float: right;
+}
+
+.nav-list li{
+    float: left;
+}
+
+.nav-list a{
+    display: block;
+    padding: 20px 10px;
+    color: #f9f9f9;
+}
+
+
+.nav-menu{
+    display: none;
+}
+
+.container h2{
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-right:20px;
+    font-size:22px;
+    font-weight: 700;
+}
+
+.container p.columns-2{
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-right:20px;
+    font-size: 14px;
+    line-height: 22px;
+    .columns:2;
+    -webkit-columns:2;
+    -moz-columns:2;
+    -o-columns:2;
+    -ms-columns:2;
+    text-align: justify;
+    
+}
+
+p{
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-right:20px;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.gallery{
+    width: 100%;
+    text-align: center;
+
+}
+
+.gallery a img{
+    width: 19%;
+    padding: 5px;
+}
+
+.service{
+    float: left;
+    width: 50%;
+}
+
+
+.mix{
+    display: none;    
+}
+
+ul.portfolio-menu li{
+    display: inline-block;
+    padding: 10px;
+}
+
+.filter{
+    background: #CACACA; 
+    display: block;
+    margin-bottom: 20px;
+    
+}
+
+
